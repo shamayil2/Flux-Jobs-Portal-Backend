@@ -1,9 +1,9 @@
 const initializeDatabase = require("./db/db.connect.js");
 const express = require("express");
 const Job = require("./models/job.model.js")
+const jobs = require("./jobs.json")
     // const cors = require("cors");
 initializeDatabase();
-
 const app = express();
 app.use(express.json());
 
@@ -38,6 +38,23 @@ app.get("/jobs", async(req, res) => {
     }
 })
 
+const addData = async(jobs) => {
+
+    try {
+
+        for (const job of jobs) {
+
+            jobObj = new Job(job);
+            jobObjSaved = await jobObj.save();
+            console.log("Object Saved");
+
+        }
+
+    } catch (error) {
+        console.log("Error Occured while Adding", error)
+    }
+
+}
 
 const PORT = 3000;
 

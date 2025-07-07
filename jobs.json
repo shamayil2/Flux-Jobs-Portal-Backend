@@ -1,0 +1,78 @@
+[{
+
+        "title": "Graphic Designer",
+        "company": "The Design Network",
+        "location": "Mumbai",
+        "salary": 40000,
+        "jobType": "Part Time(Remote)",
+        "description": "Create UI Designs for multiple devices and purposes",
+        "qualifications": "Bachelors in Design from a premier institute. Hands on work experience on Designing Tools like Figma."
+
+
+    },
+    {
+
+        "title": "Social Media Executive",
+        "company": "Social Hub",
+        "location": "Bangalore",
+        "salary": 30000,
+        "jobType": "Full Time(Remote)",
+        "description": "Handle social media channels of public figures and brands.",
+        "qualifications": "Should Have passed high school. Previous Experience of handling social media with large number of followers."
+
+
+    },
+    {
+
+        "title": "Data Analyst",
+        "company": "Flux Stats Inc.",
+        "location": "Pune",
+        "salary": 70000,
+        "jobType": "Full Time(On-Site)",
+        "description": "Explore data and extract meaningful information from it.",
+        "qualifications": "Bachelors in any field. Hands on experience of data analytics tools like Excel,PowerBI"
+
+
+    },
+    {
+
+        "title": "Content Writer",
+        "company": "Your Story Pvt. Ltd.",
+        "location": "Hyderabad",
+        "salary": 20000,
+        "jobType": "Part Time(Remote)",
+        "description": "Create blogs on categories including but not limited to Entertainment,Science,Tech.",
+        "qualifications": "Previous Experience of writing blogs on Wordpress etc. Should have good written english with excellent vocabulary."
+
+
+    },
+    {
+
+        "title": "Customer Support Representativw",
+        "company": "Ally Network Inc.",
+        "location": "California , USA",
+        "salary": 120000,
+        "jobType": "Full Time(Remote)",
+        "description": "Handle customer queries and resolve their issues and provide solutions.",
+        "qualifications": "Good Spoken English with ability to explain things clearly. Must have graduated High School."
+
+
+    },
+    {
+
+        "title": "Backend Developer",
+        "company": "Edge Software Solutions",
+        "location": "Paris",
+        "salary": 340000,
+        "jobType": "Full Time(Remote)",
+        "description": "Handle entire backend infrastructure of Software Products.",
+        "qualifications": "Bachelors in Technology in Computer Related Field. Hands on work experience on Technologies like Express,MongoDB and knowledge of entire CI/CD Pipeline."
+
+
+    }
+
+
+
+
+
+]
