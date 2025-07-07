@@ -5,7 +5,7 @@ const jobs = require("./jobs.json")
 const cors = require("cors");
 corsOption = {
     origin: "*",
-    credentials: true
+
 }
 
 
